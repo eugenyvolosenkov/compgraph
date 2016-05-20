@@ -1,0 +1,11 @@
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Obj\Debug\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Raytracing.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Raytracing.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Graphics.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Math.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Tao.OpenGl.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Math.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Tao.OpenGl.xml
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Debug\Auxiliary.Graphics.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Obj\Debug\Auxiliary.Raytracing.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Raytracing Library\Bin\Obj\Debug\Auxiliary.Raytracing.pdb

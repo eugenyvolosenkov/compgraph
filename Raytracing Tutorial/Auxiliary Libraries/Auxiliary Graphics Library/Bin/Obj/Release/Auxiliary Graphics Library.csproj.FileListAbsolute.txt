@@ -1,0 +1,18 @@
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Graphics.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Math.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.xml
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\ResolveAssemblyReference.cache
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary.Graphics.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Graphics.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Math.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.xml
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\ResolveAssemblyReference.cache
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary.Graphics.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Graphics.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Auxiliary.Math.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Release\Tao.OpenGl.xml
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary Graphics Library.csprojResolveAssemblyReference.cache
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Graphics Library\Bin\Obj\Release\Auxiliary.Graphics.dll

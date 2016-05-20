@@ -1,0 +1,6 @@
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\bin\Debug\Tutorial - Curves.exe
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\bin\Debug\Tutorial - Curves.pdb
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\obj\Debug\Tutorial.Curves.MainForm.resources
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\obj\Debug\Tutorial - Curves.csproj.GenerateResource.Cache
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\obj\Debug\Tutorial - Curves.exe
+E:\Компьютерная графика\КомпГеом\Tutorial - Curves\obj\Debug\Tutorial - Curves.pdb

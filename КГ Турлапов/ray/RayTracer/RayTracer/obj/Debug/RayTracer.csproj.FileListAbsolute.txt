@@ -1,0 +1,16 @@
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\bin\Debug\RayTracer.exe.config
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\bin\Debug\RayTracer.exe
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\bin\Debug\RayTracer.pdb
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\obj\Debug\RayTracer.Properties.Resources.resources
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\obj\Debug\RayTracer.csproj.GenerateResource.Cache
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\obj\Debug\RayTracer.exe
+C:\Users\samok_000\Desktop\ray\RayTracer\RayTracer\obj\Debug\RayTracer.pdb
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\bin\Debug\RayTracer.exe.config
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\obj\Debug\RayTracer.exe
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\obj\Debug\RayTracer.pdb
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\bin\Debug\RayTracer.exe
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\bin\Debug\RayTracer.pdb
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\obj\Debug\RayTracer.csprojResolveAssemblyReference.cache
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\obj\Debug\RayTracer.Properties.Resources.resources
+E:\Компьютерная графика\КГ Турлапов\ray\RayTracer\RayTracer\obj\Debug\RayTracer.csproj.GenerateResource.Cache

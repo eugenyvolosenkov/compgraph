@@ -1,0 +1,27 @@
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\bin\Debug\LightTracing.exe
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\bin\Debug\LightTracing.pdb
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Form1.resources
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Properties.Resources.resources
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\LightTracing.exe
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Debug\LightTracing.pdb
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.exe
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.pdb
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\bin\Debug\LightTracing.exe
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\bin\Debug\LightTracing.pdb
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.csprojResolveAssemblyReference.cache
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Form1.resources
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Properties.Resources.resources
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Debug\LightTracing.csproj.GenerateResource.Cache
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.exe
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.pdb
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\bin\Debug\LightTracing.exe
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\bin\Debug\LightTracing.pdb
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.csprojResolveAssemblyReference.cache
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Form1.resources
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.Properties.Resources.resources
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\obj\x86\Debug\LightTracing.csproj.GenerateResource.Cache
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\bin\Debug\Tao.OpenGl.xml
+C:\Users\samok_000\Desktop\LightTracing\LightTracing\bin\Debug\Tao.Platform.Windows.xml

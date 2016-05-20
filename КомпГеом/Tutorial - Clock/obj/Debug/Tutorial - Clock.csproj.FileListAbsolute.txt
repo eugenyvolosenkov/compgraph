@@ -1,0 +1,6 @@
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\bin\Debug\Tutorial - Clock.exe
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\bin\Debug\Tutorial - Clock.pdb
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\obj\Debug\Tutorial.Clock.MainForm.resources
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\obj\Debug\Tutorial - Clock.csproj.GenerateResource.Cache
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\obj\Debug\Tutorial - Clock.exe
+E:\Компьютерная графика\КомпГеом\Tutorial - Clock\obj\Debug\Tutorial - Clock.pdb

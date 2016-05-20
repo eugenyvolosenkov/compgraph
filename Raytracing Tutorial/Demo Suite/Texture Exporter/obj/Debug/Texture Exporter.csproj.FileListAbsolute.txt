@@ -1,0 +1,28 @@
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Texture Exporter.exe
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Texture Exporter.pdb
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Graphics.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Math.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Raytracing.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Tao.OpenGl.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Graphics.pdb
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Tao.OpenGl.xml
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Math.pdb
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Raytracing.pdb
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\ResolveAssemblyReference.cache
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\Texture Exporter.exe
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\Texture Exporter.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\Texture Exporter.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Texture Exporter.exe
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Texture Exporter.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Graphics.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Math.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Raytracing.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Tao.OpenGl.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Math.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Debug\Tao.OpenGl.xml
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\Texture Exporter.exe
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Debug\Texture Exporter.pdb

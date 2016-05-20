@@ -1,0 +1,21 @@
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\bin\Release\LightTracing.exe
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\bin\Release\LightTracing.pdb
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.Form1.resources
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.Properties.Resources.resources
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.exe
+C:\Documents and Settings\Артем\Мои документы\Visual Studio 2010\Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.pdb
+C:\Documents and Settings\Артем\Мои документы\VS Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.exe
+C:\Documents and Settings\Артем\Мои документы\VS Projects\LightTracing\LightTracing\obj\x86\Release\LightTracing.pdb
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Release\LightTracing.exe
+C:\Users\Макс\Desktop\LightTracing\LightTracing\LightTracing\obj\x86\Release\LightTracing.pdb
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.exe
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.pdb
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\bin\Release\LightTracing.exe
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\bin\Release\LightTracing.pdb
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.csprojResolveAssemblyReference.cache
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.Form1.resources
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.Properties.Resources.resources
+E:\Компьютерная графика\КГ Турлапов\Самохвалов\LightTracing\LightTracing\obj\x86\Release\LightTracing.csproj.GenerateResource.Cache

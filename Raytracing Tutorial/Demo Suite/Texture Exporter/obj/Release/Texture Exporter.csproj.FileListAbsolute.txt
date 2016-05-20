@@ -1,0 +1,18 @@
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Texture Exporter.exe
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Graphics.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Math.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Raytracing.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Tao.OpenGl.dll
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Tao.OpenGl.xml
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Raytracing.pdb
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Release\ResolveAssemblyReference.cache
+E:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Release\Texture Exporter.exe
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Texture Exporter.exe
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Graphics.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Math.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Raytracing.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Tao.OpenGl.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Auxiliary.Raytracing.pdb
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\bin\Release\Tao.OpenGl.xml
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Demo Suite\Texture Exporter\obj\Release\Texture Exporter.exe

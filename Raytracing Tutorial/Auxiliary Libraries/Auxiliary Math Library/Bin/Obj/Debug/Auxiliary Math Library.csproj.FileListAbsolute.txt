@@ -1,0 +1,5 @@
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Debug\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Debug\Auxiliary.Math.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Debug\Auxiliary.Math.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Debug\Auxiliary.Math.pdb

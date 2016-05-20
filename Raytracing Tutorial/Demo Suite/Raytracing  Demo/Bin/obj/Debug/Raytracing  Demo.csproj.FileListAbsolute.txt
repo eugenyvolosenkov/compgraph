@@ -1,0 +1,35 @@
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\Raytracing  Demo.csproj.GenerateResource.Cache
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.exe
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.pdb

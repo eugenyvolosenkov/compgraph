@@ -1,0 +1,9 @@
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\bin\Release\Auxiliary.Math.dll
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\ResolveAssemblyReference.cache
+C:\Users\turlapov.v\Desktop\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\Auxiliary.Math.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\bin\Release\Auxiliary.Math.dll
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\ResolveAssemblyReference.cache
+C:\Users\Евген\Desktop\CompGraph\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\Auxiliary.Math.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\bin\Release\Auxiliary.Math.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\Auxiliary.Math.dll
+E:\Компьютерная графика\Raytracing Tutorial\Auxiliary Libraries\Auxiliary Math Library\Bin\Obj\Release\Auxiliary Math Library.csprojResolveAssemblyReference.cache
